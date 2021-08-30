@@ -76,7 +76,7 @@ class LinkedList
 
 	private:
 	Node<T>* m_front;
-	int m_size;
+	T m_size;
 };
 
 #include "LinkedList.hpp"
